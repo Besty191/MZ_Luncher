@@ -1,0 +1,16 @@
+{
+    {
+        "Name" : "Fazed Town",
+        "IP" : "182.53.216.43",
+        "Description" : "SERVER GAME ที่มีแอดมินหน้าตาหล่อที่สุดใน?",
+        "LOGO" : "img/logo.png",
+        "Banner" : "img/FAZED.png"
+    },
+    {
+        "Name" : "Fazed 4Kings",
+        "IP" : "183.88.240.99:30120",
+        "Description" : "",
+        "LOGO" : "https://cdn.discordapp.com/attachments/984800844014833691/1059846592741519401/4KINGs1024.png",
+        "Banner" : "https://i.imgur.com/sifJrG0.jpg"
+    },
+}
